@@ -1,7 +1,7 @@
 ![image](https://github.com/Anish-Das-GH/Anish-Das-GH/assets/98608261/1a1986b8-f05f-4a18-ba1a-dea8fae39fd8)<h1 align="center">Hi 👋, I'm Anish Das</h1>
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/94/91/6b/94916bc85d82d43aa9d33730e77c1c2c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-das-gh&label=Profile%20views&color=0e75b6&style=flat" alt="anish-das-gh" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/94/91/6b/94916bc85d82d43aa9d33730e77c1c2c.gif" alt="anish-das-gh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anish_das_tr" target="blank"><img src="https://img.shields.io/twitter/follow/anish_das_tr?logo=twitter&style=for-the-badge" alt="anish_das_tr" /></a> </p>
 
