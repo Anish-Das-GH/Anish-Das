@@ -1,4 +1,4 @@
-![image](https://github.com/Anish-Das-GH/Anish-Das-GH/assets/98608261/1a1986b8-f05f-4a18-ba1a-dea8fae39fd8)<h1 align="center">Hi 👋, I'm Anish Das</h1>
+<h1 align="center">Hi 👋, I'm Anish Das</h1>
 <h3 align="center">A passionate Developer from India</h3>
 <p align="left"> <img src="https://i.pinimg.com/originals/d5/6d/51/d56d51a1175fb838ee22e6ea336addad.gif" alt="anish-das-gh" /> </p>
 
