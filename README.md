@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/anish_das_tr" target="blank"><img src="https://img.shields.io/twitter/follow/anish_das_tr?logo=twitter&style=for-the-badge" alt="anish_das_tr" /></a> </p>
 
-- 🌱 I’m currently learning **React.js , Next.js and Java**
+- 🌱 I’m currently learning **Express & MongoDB**
 
 - 📫 How to reach me **anishservice12@gmail.com**
 
